@@ -17,8 +17,7 @@ Ce référentiel présente la portée du projet et l’architecture technique et
 - [Objectifs](#objectifs)
 - [Fonctionnalités couvertes](#fonctionnalités-couvertes)
 - [Architecture technique](#architecture-technique)
-- [Etapes d'un worflow](#étapes-d'un-worflow)
-- [Mise en place](#mise-en-place)
+- [Etapes d'un worflow](#etapes-d'un-worflow)
 - [Stack technique](#stack-technique)
 - [Compétences développées](#compétences-développées)
 
