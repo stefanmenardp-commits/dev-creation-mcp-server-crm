@@ -10,7 +10,7 @@ Le code source, les données de production, les informations relatives aux clien
 
 Ce référentiel présente la portée du projet et l’architecture technique et le code effectué.
 
-## Sommaire
+## Table des matières
 
 - [Présentation du projet](#présentation-du-projet)
 - [Contexte métier](#contexte-métier)
