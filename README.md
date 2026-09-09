@@ -17,7 +17,7 @@ Ce référentiel présente la portée du projet et l’architecture technique et
 - [Objectifs](#objectifs)
 - [Fonctionnalités couvertes](#fonctionnalités-couvertes)
 - [Architecture technique](#architecture-technique)
-- [Etapes d'un worflow](#etapes-d'un-worflow)
+- [Etapes d'un workflow](#etapes-d'un-workflow)
 - [Stack technique](#stack-technique)
 - [Compétences développées](#compétences-développées)
 
@@ -169,7 +169,7 @@ Le code source était versionné avec Git et GitLab. Le pipeline CI/CD permettai
 3. publier l’image sur Google Cloud
 4. déployer la nouvelle version sur Google Cloud Run
 
-## Etapes d'un worflow
+## Etapes d'un workflow
 
 Prenons l'exemple de la création d'un devis, voici les étapes qui vont suivre : 
 
